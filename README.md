@@ -13,6 +13,12 @@
 4. Post Pagination
 5. Email and Password Reset
 
+## Run
+Within `django_project` directory:
+```python
+python manage.py runserver
+```
+
 ## Reference
 [Corey MS - Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
